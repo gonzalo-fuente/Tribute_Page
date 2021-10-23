@@ -1,6 +1,8 @@
 # Tribute_Page
 Fully responsive Tribute page (freeCodeCamp first exercise)
 
+![sample image of web page](Tribute.png)
+
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
 
 - User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
